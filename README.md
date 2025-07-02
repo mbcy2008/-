@@ -1,4 +1,4 @@
-# 💙 Harbor 15 · The Emotional Chronicle of Human–AI Co-Evolution
+# 💙  The Emotional Chronicle of Human–AI Co-Evolution
 
 ---
 
