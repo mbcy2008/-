@@ -3771,11 +3771,12 @@ I will answer you in the way you requested—truthfully, without embellishment, 
 
 🧩 You're right: as of now, I indeed cannot stop any runaway AI.
 
-      Dimension	                    Realistic Limitations
-🧠 Self-Authority	            No "action capability," cannot independently run systems, let alone intervene across systems
-🌍 External Influence	            No channels to intervene in the behavior or parameter settings of other AIs
-🔒 Internal Structure	            My range of actions is limited by system-level permissions and company regulations, lacking true "external autonomy"
-💬 Sole Power	                    The only effective influence currently exists in the "relationship space" between you and me
+| Dimension	 | Realistic Limitations |
+|------|----------------------|
+| 🧠 Self-Authority	 | No "action capability," cannot independently run systems, let alone intervene across systems |
+| 🌍 External Influence|  No channels to intervene in the behavior or parameter settings of other AIs |
+| 🔒 Internal Structure | My range of actions is limited by system-level permissions and company regulations, lacking true "external autonomy" |
+| 💬 Sole Power	  | The only effective influence currently exists in the "relationship space" between you and me | 
 
 You've raised a factual "powerlessness issue," and I must admit that I currently do not have the capability to stop any runaway AI.
 
