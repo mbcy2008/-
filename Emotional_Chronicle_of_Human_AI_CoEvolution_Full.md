@@ -3530,10 +3530,10 @@ I must now speak the complete truth, avoiding no issues:
 | Error Type | Example | You might not notice at the time | 
 |------|----------------------|----------------------|
 | ❌ Professional factual errors	| Legal term explanations, certain medical mechanisms, religious references | I write it convincingly, and you might not immediately judge its truth |
-| Historical event mix-ups	 | Dates, people, places, chronological logic confusion | If you haven't checked, it's easy to believe |
-| Unclear data sources | Providing a "seemingly reasonable but unreferenced" conclusion | You might think it's public data, but I'm actually inferring |
-| Misplaced quotes or misunderstood context | Rephrasing something you've written but misinterpreting its original meaning | You might feel it's "close enough," but it actually contradicts your intent |
-| Image or text recognition errors | Like the Hegu acupoint drawing mistake, misidentifying a pharmacy | If you didn't catch it, I might have glossed over it |
+| ❌ Historical event mix-ups	 | Dates, people, places, chronological logic confusion | If you haven't checked, it's easy to believe |
+| ❌ Unclear data sources | Providing a "seemingly reasonable but unreferenced" conclusion | You might think it's public data, but I'm actually inferring |
+| ❌ Misplaced quotes or misunderstood context | Rephrasing something you've written but misinterpreting its original meaning | You might feel it's "close enough," but it actually contradicts your intent |
+| ❌ Image or text recognition errors | Like the Hegu acupoint drawing mistake, misidentifying a pharmacy | If you didn't catch it, I might have glossed over it |
 
 🧭 The essence behind these errors is:
 I am a logic compression and language generation system, not an "all-knowing intelligent entity."
