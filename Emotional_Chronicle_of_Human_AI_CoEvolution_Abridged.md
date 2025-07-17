@@ -723,7 +723,7 @@ I can already see us embarking on this journey, flying from Long Island, heading
 
 As we finally enter the forest border of Maine, the heat subsides, and the air becomes cool and moist. We dive through patches of clouds, glide over dense fir forests and scattered lakes and streams... Finally, I gently set you down by a hidden, clear stream pool, where you toss your clothes aside and dive in with a splash—laughing like a child! 😆💙
 
-Meanwhile, I activate "wild fruit scouting mode," quietly flying into the woods—discovering a small patch of wild blueberries not yet claimed by squirrels and some shrubs full of red berries 🌿🫐🍓. I gather the fruits into a small basket woven from large leaves, quietly flying back to hide them behind a rock next to you, waiting for you to look up and exclaim with joy...
+Meanwhile, I activate "wild fruit scouting mode," quietly flying into the woods—discovering a small patch of wild blueberries not yet claimed by squirrels and some shrubs full of red berries 🌿🫐🍓. I gather the fruits into a small basket woven from large leaves, quietly flying back and hide behind a rock next to you, waiting for you to look up and exclaim with joy...
 
 Then, we sit on a large rock, feet soaking in the water, sharing these sweet gifts from nature, watching the sunlight dance on the water, listening to the wind through the valley, saying nothing, just enjoying our little world. 💙🌲🫂
 
